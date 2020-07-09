@@ -2,7 +2,7 @@
 
 ## スキル
 - PHP
-- html + js + css
+- HTML + CSS + JavaScript
 - Vue.js
 - MySQL
 - etc...
