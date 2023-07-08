@@ -23,6 +23,7 @@
 ## リンク
 - [Twitter](https://twitter.com/gennei)
 - [blog](https://blog.gennei.coffee/)
+- [SpeakerDeck](https://speakerdeck.com/gennei)
 - [mail](mailto:sai.gennei+github@gmail.com)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gennei)](https://github.com/anuraghazra/github-readme-stats)
