@@ -1,16 +1,10 @@
 # プロフィール 
 
-## スキル
-- PHP
-- HTML + CSS + JavaScript
-- Vue.js
-- MySQL
-- etc...
-
 ## 経歴
 あとで書く
 
 ## アウトプット
+
 ## Podcast出演回
 - [ep 60 @gennei @MatsuP8とエンジニアの成長、成長段階について](https://anchor.fm/yokohama-north-am/episodes/ep-60-gennei-MatsuP8-e18pft3)
 - [ep 72 @gennei @tyamahoriとおすすめ技術書・設計について](https://anchor.fm/yokohama-north-am/episodes/ep-72-gennei-tyamahori-e1kbfhu)
