@@ -1,9 +1,16 @@
 # プロフィール 
 
-## 経歴
-あとで書く
 
-## アウトプット
+名前: gennei
+
+好きなもの:
+  - コーヒー
+  - Podcast
+  - サンフレッチェ広島
+
+## 登壇
+- PHPerKaigi2023 
+  - [CodeCrafters にチャレンジして PHP で Redis を作ってみる by げんえい](https://fortee.jp/phperkaigi-2023/proposal/dc54af9b-f879-47b6-9737-12ae6e84bf1d)
 
 ## インタビュー
 - [個人の成長を組織に還元する。顧客目線の想像力を持ちながらすすめる仕事のスタイルとは｜kaonavi vivivi](https://vivivi.kaonavi.jp/articles/utani-arifumi-221219/)
@@ -20,10 +27,6 @@
   - [#ツナギメエフエム 第45回 | ツナギメエフエム](https://tsunagi.me/ep45/)
 - タイトル未定（yamato_sorarikuのPodcast）
   - [#3 コーヒーの話 with @gennei 作成者：タイトル未定（yamato_sorarikuのPodcast）](https://podcasters.spotify.com/pod/show/yamato-sorariku/episodes/3--with-gennei-e26s3cc)
-
-## 登壇
-- PHPerKaigi2023 
-  - [CodeCrafters にチャレンジして PHP で Redis を作ってみる by げんえい](https://fortee.jp/phperkaigi-2023/proposal/dc54af9b-f879-47b6-9737-12ae6e84bf1d)
 
 ## リンク
 - [Twitter](https://twitter.com/gennei)
