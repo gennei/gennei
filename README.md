@@ -28,6 +28,10 @@
   - [#ツナギメエフエム 第45回 | ツナギメエフエム](https://tsunagi.me/ep45/)
 - タイトル未定（yamato_sorarikuのPodcast）
   - [#3 コーヒーの話 with @gennei 作成者：タイトル未定（yamato_sorarikuのPodcast）](https://podcasters.spotify.com/pod/show/yamato-sorariku/episodes/3--with-gennei-e26s3cc)
+- metascientia #メタサイエンティア
+  - [#036 エンジニアのカルチャー Part1:プロジェクト・マネジメント](https://podcasters.spotify.com/pod/show/ac6u1qrt8t8/episodes/036--Part1-e2ba6qi/a-aai34gj)
+  - [#037 エンジニアのカルチャー Part2:マネジメント・キャリアパス](https://podcasters.spotify.com/pod/show/ac6u1qrt8t8/episodes/037--Part2-e2c4mmc/a-aakmoj1)
+  - [#038 エンジニアのカルチャー Part3:人材育成とコミュニティ](https://podcasters.spotify.com/pod/show/ac6u1qrt8t8/episodes/038--Part3-e2d59mh/a-aanspsn)
 
 ## SNS
 - [Twitter](https://twitter.com/gennei)
