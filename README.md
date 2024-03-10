@@ -12,6 +12,8 @@
 ## 📢 登壇
 - PHPerKaigi2023 
   - [CodeCrafters にチャレンジして PHP で Redis を作ってみる by げんえい](https://fortee.jp/phperkaigi-2023/proposal/dc54af9b-f879-47b6-9737-12ae6e84bf1d)
+- PHPerKaigi2024
+  - [履歴データテーブルとの向き合い方 by げんえい](https://fortee.jp/phperkaigi-2024/proposal/47cf9f17-825a-4021-bf33-86e4a62bc222)
 
 ## 🎙️ インタビュー
 - [個人の成長を組織に還元する。顧客目線の想像力を持ちながらすすめる仕事のスタイルとは｜kaonavi vivivi](https://vivivi.kaonavi.jp/articles/utani-arifumi-221219/)
