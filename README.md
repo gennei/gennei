@@ -19,7 +19,11 @@
 - [個人の成長を組織に還元する。顧客目線の想像力を持ちながらすすめる仕事のスタイルとは｜kaonavi vivivi](https://vivivi.kaonavi.jp/articles/utani-arifumi-221219/)
 - [リリースとデプロイの分離でFeature Toggleを導入するとスクラムの「利用可能なインクリメント」が理解できた - はてなニュース](https://hatenanews.com/articles/2023/06/27/103000)
 
-## 📻 Podcast出演回
+## 📻 Podcast
+- [readline.fm](https://podcasters.spotify.com/pod/show/readlinefm)
+  - 読んだ本について話すPodcastです
+
+## 📻 Podcastゲスト出演回
 - Yokohama North AM
   - [ep 60 @gennei @MatsuP8とエンジニアの成長、成長段階について](https://anchor.fm/yokohama-north-am/episodes/ep-60-gennei-MatsuP8-e18pft3)
   - [ep 72 @gennei @tyamahoriとおすすめ技術書・設計について](https://anchor.fm/yokohama-north-am/episodes/ep-72-gennei-tyamahori-e1kbfhu)
