@@ -32,6 +32,7 @@
   - [#5 げんえいさん｜積読コレクションを次々投稿するあの人はどんな人？——息をするように情報収集・映画や本を面白そうに紹介すること](https://anchor.fm/dbc-radio/episodes/5-e1o3m5q)
 - ツナギメエフエム
   - [#ツナギメエフエム 第45回 | ツナギメエフエム](https://tsunagi.me/ep45/)
+  - [#ツナギメエフエム 第96回 | ツナギメエフエム](https://tsunagi.me/ep96/)
 - タイトル未定（yamato_sorarikuのPodcast）
   - [#3 コーヒーの話 with @gennei 作成者：タイトル未定（yamato_sorarikuのPodcast）](https://podcasters.spotify.com/pod/show/yamato-sorariku/episodes/3--with-gennei-e26s3cc)
 - metascientia #メタサイエンティア
