@@ -20,7 +20,7 @@
 - [リリースとデプロイの分離でFeature Toggleを導入するとスクラムの「利用可能なインクリメント」が理解できた - はてなニュース](https://hatenanews.com/articles/2023/06/27/103000)
 
 ## 📻 Podcast
-- [readline.fm](https://podcasters.spotify.com/pod/show/readlinefm)
+- [readline.fm](https://creators.spotify.com/pod/show/readlinefm)
   - 積ん読が趣味の2人が、何かの本を読んだ感想を雑談するpodcastです。ハッシュタグは [#readlinefm](https://x.com/search?q=%23readlinefm&src=typed_query&f=live) です。
 
 ## 📻 Podcastゲスト出演回
