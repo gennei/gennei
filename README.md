@@ -15,6 +15,9 @@
 - PHPerKaigi2024
   - [履歴データテーブルとの向き合い方 by げんえい](https://fortee.jp/phperkaigi-2024/proposal/47cf9f17-825a-4021-bf33-86e4a62bc222)
 
+## 📖 執筆
+- [TECHNICAL MASTER はじめてのPHP エンジニア入門編 - 秀和システム あなたの学びをサポート！](https://www.shuwasystem.co.jp/book/9784798073224.html)
+
 ## 🎙️ インタビュー
 - [個人の成長を組織に還元する。顧客目線の想像力を持ちながらすすめる仕事のスタイルとは｜kaonavi vivivi](https://vivivi.kaonavi.jp/articles/utani-arifumi-221219/)
 - [リリースとデプロイの分離でFeature Toggleを導入するとスクラムの「利用可能なインクリメント」が理解できた - はてなニュース](https://hatenanews.com/articles/2023/06/27/103000)
