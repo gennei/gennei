@@ -14,6 +14,8 @@
   - [CodeCrafters にチャレンジして PHP で Redis を作ってみる by げんえい](https://fortee.jp/phperkaigi-2023/proposal/dc54af9b-f879-47b6-9737-12ae6e84bf1d)
 - PHPerKaigi2024
   - [履歴データテーブルとの向き合い方 by げんえい](https://fortee.jp/phperkaigi-2024/proposal/47cf9f17-825a-4021-bf33-86e4a62bc222)
+- PHPerKaigi2026
+  -  [Feature Toggle は捨てやすく使おう by げんえい](https://fortee.jp/phperkaigi-2026/proposal/dde4954b-4ae9-42fa-b730-af6a06ca3157)
 
 ## 📖 執筆
 - [TECHNICAL MASTER はじめてのPHP エンジニア入門編 - 秀和システム あなたの学びをサポート！](https://www.shuwasystem.co.jp/book/9784798073224.html)
@@ -21,6 +23,7 @@
 ## 🎙️ インタビュー
 - [個人の成長を組織に還元する。顧客目線の想像力を持ちながらすすめる仕事のスタイルとは｜kaonavi vivivi](https://vivivi.kaonavi.jp/articles/utani-arifumi-221219/)
 - [リリースとデプロイの分離でFeature Toggleを導入するとスクラムの「利用可能なインクリメント」が理解できた - はてなニュース](https://hatenanews.com/articles/2023/06/27/103000)
+- [カオナビ現場エンジニアとEMが語る、アジャイル組織の正体｜カオナビ技術広報](https://note.com/kaonavi_devs/n/nf45e24cc543e)
 
 ## 📻 Podcast
 - [readline.fm](https://creators.spotify.com/pod/show/readlinefm)
@@ -37,6 +40,7 @@
   - [#ツナギメエフエム 第45回 | ツナギメエフエム](https://tsunagi.me/ep45/)
   - [#ツナギメエフエム 第96回 | ツナギメエフエム](https://tsunagi.me/ep96/)
   - [#ツナギメエフエム 第131回 | ツナギメエフエム](https://tsunagi.me/ep131/)
+  - [#ツナギメエフエム 第140回 | ツナギメエフエム](https://tsunagi.me/ep140/)
 - タイトル未定（yamato_sorarikuのPodcast）
   - [#3 コーヒーの話 with @gennei 作成者：タイトル未定（yamato_sorarikuのPodcast）](https://podcasters.spotify.com/pod/show/yamato-sorariku/episodes/3--with-gennei-e26s3cc)
 - metascientia #メタサイエンティア
