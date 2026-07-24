@@ -16,6 +16,8 @@
   - [履歴データテーブルとの向き合い方 by げんえい](https://fortee.jp/phperkaigi-2024/proposal/47cf9f17-825a-4021-bf33-86e4a62bc222)
 - PHPerKaigi2026
   -  [Feature Toggle は捨てやすく使おう by げんえい](https://fortee.jp/phperkaigi-2026/proposal/dde4954b-4ae9-42fa-b730-af6a06ca3157)
+-  AI DevEx2026
+  - [AIツール導入しても生産性はあがらない？ カオナビが直面した3つの壁と乗り越え方]() 
 
 ## 📖 執筆
 - [TECHNICAL MASTER はじめてのPHP エンジニア入門編 - 秀和システム あなたの学びをサポート！](https://www.shuwasystem.co.jp/book/9784798073224.html)
@@ -24,6 +26,7 @@
 - [個人の成長を組織に還元する。顧客目線の想像力を持ちながらすすめる仕事のスタイルとは｜kaonavi vivivi](https://vivivi.kaonavi.jp/articles/utani-arifumi-221219/)
 - [リリースとデプロイの分離でFeature Toggleを導入するとスクラムの「利用可能なインクリメント」が理解できた - はてなニュース](https://hatenanews.com/articles/2023/06/27/103000)
 - [カオナビ現場エンジニアとEMが語る、アジャイル組織の正体｜カオナビ技術広報](https://note.com/kaonavi_devs/n/nf45e24cc543e)
+- [「触れば壊れる」という深淵を覗く喜びを。リファラルがつないだ、カオナビ第二創業期のエンジニア組織｜カオナビ公式note](https://note.com/kaonavi/n/n1ebc4489d32c)
 
 ## 📻 Podcast
 - [readline.fm](https://creators.spotify.com/pod/show/readlinefm)
