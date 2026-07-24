@@ -17,7 +17,6 @@
 - PHPerKaigi2026
   -  [Feature Toggle は捨てやすく使おう by げんえい](https://fortee.jp/phperkaigi-2026/proposal/dde4954b-4ae9-42fa-b730-af6a06ca3157)
 -  AI DevEx2026
-  - [AIツール導入しても生産性はあがらない？ カオナビが直面した3つの壁と乗り越え方]() 
 
 ## 📖 執筆
 - [TECHNICAL MASTER はじめてのPHP エンジニア入門編 - 秀和システム あなたの学びをサポート！](https://www.shuwasystem.co.jp/book/9784798073224.html)
