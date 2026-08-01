@@ -31,6 +31,7 @@
 ## 📻 Podcast
 - [readline.fm](https://creators.spotify.com/pod/show/readlinefm)
   - 積読が趣味の2人が、何かの本を読んだ感想を雑談するpodcastです。ハッシュタグは [#readlinefm](https://x.com/search?q=%23readlinefm&src=typed_query&f=live) です。
+  - トム・デマルコやワインバーグなど古典を読んだ感想を話しています。
 
 ## 📻 Podcastゲスト出演回
 - Yokohama North AM
@@ -41,9 +42,13 @@
   - [#5 げんえいさん｜積読コレクションを次々投稿するあの人はどんな人？——息をするように情報収集・映画や本を面白そうに紹介すること](https://anchor.fm/dbc-radio/episodes/5-e1o3m5q)
 - ツナギメエフエム
   - [#ツナギメエフエム 第45回 | ツナギメエフエム](https://tsunagi.me/ep45/)
+    - 本の紹介をしました
   - [#ツナギメエフエム 第96回 | ツナギメエフエム](https://tsunagi.me/ep96/)
+    - 本の紹介をしました
   - [#ツナギメエフエム 第131回 | ツナギメエフエム](https://tsunagi.me/ep131/)
+    - マンガの紹介をしました
   - [#ツナギメエフエム 第140回 | ツナギメエフエム](https://tsunagi.me/ep140/)
+    - マンガの紹介をしました
 - タイトル未定（yamato_sorarikuのPodcast）
   - [#3 コーヒーの話 with @gennei 作成者：タイトル未定（yamato_sorarikuのPodcast）](https://podcasters.spotify.com/pod/show/yamato-sorariku/episodes/3--with-gennei-e26s3cc)
 - metascientia #メタサイエンティア
